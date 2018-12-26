@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace WishList.Models.AccountViewModels
 {
-    public class RegisterViewModels
+    public class RegisterViewModel
     {
         [Required]
         [EmailAddress]
